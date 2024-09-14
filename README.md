@@ -4,7 +4,7 @@
 [glyphy](https://www.glyphy.io) \
 [fockups](https://www.fockups.com) \
 [halftone](https://halftone.xoihazard.com) \
-[9elements](https://www.9elements.github.io) \
+[9elements](https://9elements.com) \
 [pixeden](https://www.pixeden.com) \
 [lordicon](https://www.lordicon.com) \
 [symbol](https://www.symbol.wtf) \
