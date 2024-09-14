@@ -1,7 +1,6 @@
 # visualization_lib
 
 [glyphy](glyphy.io)
-
 [fockups](fockups.com)
 
 [halftone](halftone.xoihazard.com)
