@@ -3,7 +3,7 @@
 38\
 [glyphy](https://www.glyphy.io) \
 [fockups](https://www.fockups.com) \
-[halftone](https://www.halftone.xoihazard.com) \
+[halftone](https://halftone.xoihazard.com) \
 [9elements](https://www.9elements.github.io) \
 [pixeden](https://www.pixeden.com) \
 [lordicon](https://www.lordicon.com) \
