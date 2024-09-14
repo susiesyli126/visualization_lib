@@ -25,5 +25,19 @@
 [humanebydesign](https://humanebydesign.com)\
 [wordmark](https://wordmark.it)\
 [flair](https://flair.ai) generate high def mock-ups\
-[httpster](https://httpster.net) web design inspo\
+[httpster](https://httpster.net) web design inspo
+
+34\
+[typewolf](https://www.typewolf.com) main font research
+
+31\
+[cosmos](https://www.cosmos.so) pinterest alternative 
+
+29\
+adobe firefly 
+
+28\
+vetorial - illustrator tutorials 
+
+
 
