@@ -1,7 +1,7 @@
 # visualization_lib
 
 38\
-[glyphy](glyphy.io) \
+[glyphy](https://www.glyphy.io) \
 [fockups](fockups.com) \
 [halftone](halftone.xoihazard.com) \
 [9elements](9elements.github.io) \
