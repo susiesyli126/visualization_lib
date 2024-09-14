@@ -6,7 +6,7 @@
 [halftone](https://halftone.xoihazard.com) \
 [9elements](https://9elements.com) \
 [pixeden](https://www.pixeden.com) \
-[lordicon](https://www.lordicon.com) \
+[lordicon](https://lordicon.com) \
 [symbol](https://www.symbol.wtf) \
 [tools dia](https://www.tools.dia.tv)
 
