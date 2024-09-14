@@ -8,7 +8,7 @@
 [pixeden](pixeden.com) \
 [lordicon](lordicon.com) \
 [symbol](symbol.wtf) \
-[tools dia](tools.dia.tv)\
+[tools dia](tools.dia.tv)
 
 37\
 [foundcolor](foundcolor.co)\
@@ -17,6 +17,6 @@
 [a11yproject](a11yproject.com)\
 [enfont](enfont.javierarce.com)\
 [brandsite](brandsite.design)\
-[anothergraphic](anothergraphic)\
+[anothergraphic](anothergraphic)
 
 36\
