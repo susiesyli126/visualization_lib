@@ -1,5 +1,8 @@
 # visualization_lib
 
+oct/
+touchdesigner
+
 38\
 [glyphy](https://glyphy.io) \
 [fockups](https://fockups.com) \
